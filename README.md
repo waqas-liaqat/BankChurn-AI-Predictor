@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#2E86C1; font-family: 'Arial', sans-serif;">
-    🌟 Customer Bank Churn Prediction 🌟
+    🌟 BankChurn-AI-Predictor 🌟
 </h1>
 <p align="center" style="font-size: 18px; color:#5D6D7E;">
     A project to predict customer churn and enhance retention strategies in the banking sector.
