@@ -18,6 +18,7 @@ This project focuses on predicting customer churn for a bank using machine learn
 - [Overview](#overview)
 - [Problem Statement](#problem-statement)
 - [Dataset](#dataset)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
 - [Approach](#approach)
 - [Technologies Used](#technologies-used)
 - [App Demonstration](#app-demonstration)
@@ -45,10 +46,28 @@ Banks often struggle with retaining customers who might leave (churn). This proj
 
 ---
 
+## Exploratory Data Analysis (EDA)
+EDA provided crucial insights into customer churn behavior:
+
+1. **Target Variable Analysis:**
+   - Churn rate: 20% (imbalanced dataset).
+2. **Geographical Trends:**
+   - Customers in Germany exhibited higher churn rates compared to France and Spain.
+3. **Age Distribution:**
+   - Older customers (46–60 years) were more likely to churn.
+4. **Balance Insights:**
+   - Customers with no balance showed unique churn patterns.
+5. **Correlation Analysis:**
+   - Weak correlations between numerical features, necessitating feature engineering.
+
+Visualizations such as bar charts, heatmaps, and KDE plots were used to uncover these patterns.
+
+---
+
 ## Approach
 1. **Data Cleaning:**
-   - Data consistency handeled.
-   - Relavent DataTypes assigned and irrelavent features removed.
+   - Data consistency handled.
+   - Relevant DataTypes assigned and irrelevant features removed.
    - Encoded categorical variables using one-hot encoding.
    - Scaled numerical features using MinMaxScaler.
 2. **Feature Engineering:**
@@ -95,7 +114,7 @@ Banks often struggle with retaining customers who might leave (churn). This proj
 - **Challenge:** Selecting optimal features without overfitting.
   - **Solution:** Iterative feature elimination using tree-based models.
 - **Challenge:** Addressing Data Imbalance in the Dataset.
-    - **Solution:** Various techniques were tested to handle the imbalance, with underfitting yielding the best results. This approach effectively mitigated overfitting and other associated issues.
+  - **Solution:** Various techniques were tested to handle the imbalance, with underfitting yielding the best results. This approach effectively mitigated overfitting and other associated issues.
 - **Challenge:** Ensuring app usability for non-technical users.
   - **Solution:** Implemented clear instructions and user-friendly design.
 - **Learning:** The importance of balancing interpretability and Recall in model selection.
@@ -123,6 +142,7 @@ Access the deployed app: [Live App Link](https://bankchurn-ai-predictor.streamli
 - **Phone:** +92 3097829808  
 - **GitHub:** [waqasliaqat](https://github.com/waqasliaqat)  
 - **Linkedin:** [muhammadwaqasliaqat](https://www.linkedin.com/in/muhammad-waqas-liaqat/)  
+
 ---
 
 *"This project demonstrates my expertise in Python, machine learning, Exploratory Data Analysis, feature engineering, and application deployment. Feel free to test the app or explore the repository for more details!"*
