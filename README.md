@@ -47,11 +47,12 @@ Banks often struggle with retaining customers who might leave (churn). This proj
 
 ## Approach
 1. **Data Cleaning:**
-   - Handled missing values and outliers.
+   - Data consistency handeled.
+   - Relavent DataTypes assigned and irrelavent features removed.
    - Encoded categorical variables using one-hot encoding.
+   - Scaled numerical features using MinMaxScaler.
 2. **Feature Engineering:**
    - Created age and balance categories.
-   - Removed redundant features to prevent overfitting.
 3. **Modeling:**
    - Tested multiple algorithms (Logistic Regression, Random Forest, XGBoost).
    - Selected the best-performing model based on precision, recall, and F1-score.
