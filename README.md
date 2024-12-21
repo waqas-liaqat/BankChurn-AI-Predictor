@@ -87,7 +87,7 @@ Banks often struggle with retaining customers who might leave (churn). This proj
   1. Clone the repository: `git clone https://github.com/your-repo/bank-churn-predictor.git`
   2. Install dependencies: `pip install -r requirements.txt`
   3. Run locally: `streamlit run app.py`
-  4. Access deployed app: [Live App Link](https://your-app-link.com)
+  4. Access deployed app: [Live App Link](https://bankchurn-ai-predictor.streamlit.app/)
 
 ---
 
@@ -113,7 +113,7 @@ Banks often struggle with retaining customers who might leave (churn). This proj
 ---
 
 ## Try It Yourself
-Access the deployed app: [Live App Link](https://your-app-link.com)
+Access the deployed app: [Live App Link](https://bankchurn-ai-predictor.streamlit.app/)
 
 ---
 
