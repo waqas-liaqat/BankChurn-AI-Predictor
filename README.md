@@ -1,4 +1,11 @@
-# Bank Customer Churn Prediction
+<h1 align="center" style="color:#2E86C1; font-family: 'Arial', sans-serif;">
+    🌟 Customer Bank Churn Prediction 🌟
+</h1>
+<p align="center" style="font-size: 18px; color:#5D6D7E;">
+    A project to predict customer churn and enhance retention strategies in the banking sector.
+</p>
+<hr style="border: 1px solid #AED6F1;">
+
 
 ![Project Logo](https://github.com/waqas-liaqat/BankChurn-AI-Predictor/blob/4c1797a8fb2fe97edea17e7688ed94a93489fcb2/Logo.png)
 
