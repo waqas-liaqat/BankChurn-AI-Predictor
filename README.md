@@ -140,7 +140,7 @@ Access the deployed app: [Live App Link](https://bankchurn-ai-predictor.streamli
 - **Developer:** Muhammad Waqas  
 - **Email:** waqasliaqat630@gmail.com  
 - **Phone:** +92 3097829808  
-- **GitHub:** [waqasliaqat](https://github.com/waqasliaqat)  
+- **GitHub:** [waqasliaqat](https://github.com/waqas-liaqat)  
 - **Linkedin:** [muhammadwaqasliaqat](https://www.linkedin.com/in/muhammad-waqas-liaqat/)  
 
 ---
