@@ -77,7 +77,7 @@ Banks often struggle with retaining customers who might leave (churn). This proj
 
 ## App Demonstration
 ### Preview of the App:
-![App Screenshot](https://via.placeholder.com/800x400)
+![App Screenshot]([https://via.placeholder.com](https://github.com/waqas-liaqat/BankChurn-AI-Predictor/blob/main/app_demo.png)/800x400)
 
 ---
 
