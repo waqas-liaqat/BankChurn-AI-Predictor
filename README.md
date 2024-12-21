@@ -1,6 +1,6 @@
 # Bank Customer Churn Prediction
 
-![Project Logo](Logo.png/150)
+![Project Logo](./Logo.png/150)
 
 ## Overview
 This project focuses on predicting customer churn for a bank using machine learning. It includes feature engineering, model building, and deployment of a user-friendly web application to predict customer churn based on user inputs.
