@@ -98,7 +98,7 @@ Banks often struggle with retaining customers who might leave (churn). This proj
     - **Solution:** Various techniques were tested to handle the imbalance, with underfitting yielding the best results. This approach effectively mitigated overfitting and other associated issues.
 - **Challenge:** Ensuring app usability for non-technical users.
   - **Solution:** Implemented clear instructions and user-friendly design.
-- **Learning:** The importance of balancing interpretability and accuracy in model selection.
+- **Learning:** The importance of balancing interpretability and Recall in model selection.
 
 ---
 
