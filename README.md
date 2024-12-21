@@ -54,8 +54,8 @@ Banks often struggle with retaining customers who might leave (churn). This proj
 2. **Feature Engineering:**
    - Created age and balance categories.
 3. **Modeling:**
-   - Tested multiple algorithms (Logistic Regression, Random Forest, XGBoost).
-   - Selected the best-performing model based on precision, recall, and F1-score.
+   - Tested multiple algorithms (Logistic Regression, Random Forest, XGBoost, etc.).
+   - Selected the best-performing model based on recall.
 4. **Deployment:**
    - Built an interactive web app using Streamlit.
    - Deployed on Streamlit Cloud for accessibility.
@@ -64,10 +64,14 @@ Banks often struggle with retaining customers who might leave (churn). This proj
 
 ## Technologies Used
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=matplotlib&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=matplotlib&logoColor=white)  
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-2E8B57?style=for-the-badge&logo=seaborn&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
+![XGBoost](https://img.shields.io/badge/XGBoost-EB4034?style=for-the-badge&logo=xgboost&logoColor=white)  
 
 ---
 
