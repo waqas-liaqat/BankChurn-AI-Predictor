@@ -10,7 +10,7 @@
 ![Project Logo](https://github.com/waqas-liaqat/BankChurn-AI-Predictor/blob/4c1797a8fb2fe97edea17e7688ed94a93489fcb2/Logo.png)
 
 ## Overview
-This project focuses on predicting customer churn for a bank using machine learning. It includes feature engineering, model building, and deployment of a user-friendly web application to predict customer churn based on user inputs.
+This project focuses on predicting customer churn for a bank using machine learning. It includes EDA, model building, and deployment of a user-friendly web application to predict customer churn based on user inputs.
 
 ---
 
@@ -35,7 +35,8 @@ Banks often struggle with retaining customers who might leave (churn). This proj
 ---
 
 ## Dataset
-- **Source:** Kaggle (or provide specific dataset name)
+- **Source:** Kaggle
+- Data [Link](https://www.kaggle.com/datasets/saurabhbadole/bank-customer-churn-prediction-dataset)
 - **Size:** 10,000 rows, 14 features
 - **Key Features:**
   - **Numerical:** Age, CreditScore, Balance, EstimatedSalary
