@@ -118,11 +118,11 @@ Access the deployed app: [Live App Link](https://your-app-link.com)
 ---
 
 ## Contact
-**Developer:** Muhammad Waqas  
-**Email:** waqasliaqat630@gmail.com  
-**Phone:** +92 3097829808  
-**GitHub:** [waqasliaqat](https://github.com/waqasliaqat)  
-**Linkedin:** [waqasliaqat](https://www.linkedin.com/in/muhammad-waqas-liaqat/)  
+- **Developer:** Muhammad Waqas  
+- **Email:** waqasliaqat630@gmail.com  
+- **Phone:** +92 3097829808  
+- **GitHub:** [waqasliaqat](https://github.com/waqasliaqat)  
+- **Linkedin:** [waqasliaqat](https://www.linkedin.com/in/muhammad-waqas-liaqat/)  
 ---
 
 *"This project demonstrates my expertise in Python, machine learning, Exploratory Data Analysis, feature engineering, and application deployment. Feel free to test the app or explore the repository for more details!"*
