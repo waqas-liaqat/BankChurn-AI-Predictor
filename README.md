@@ -104,13 +104,11 @@ Banks often struggle with retaining customers who might leave (churn). This proj
 
 ## Results
 - **Model Performance:**
-  - Accuracy: 87%
-  - Precision: 84%
-  - Recall: 79%
-  - F1-Score: 81%
+  - Accuracy: 72%
+  - Recall: 73%
 - **Key Insights:**
   - Age and geography were significant churn indicators.
-  - Customers with high balances were less likely to churn.
+  - Customers with high balances were more likely to churn.
 
 ---
 
@@ -124,8 +122,8 @@ Access the deployed app: [Live App Link](https://your-app-link.com)
 **Email:** waqasliaqat630@gmail.com  
 **Phone:** +92 3097829808  
 **GitHub:** [waqasliaqat](https://github.com/waqasliaqat)  
-
+**Linkedin:** [waqasliaqat](https://www.linkedin.com/in/muhammad-waqas-liaqat/)  
 ---
 
-*"This project demonstrates my expertise in Python, machine learning, feature engineering, and application deployment. Feel free to test the app or explore the repository for more details!"*
+*"This project demonstrates my expertise in Python, machine learning, Exploratory Data Analysis, feature engineering, and application deployment. Feel free to test the app or explore the repository for more details!"*
 
