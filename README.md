@@ -1,6 +1,6 @@
 # Bank Customer Churn Prediction
 
-![Project Logo](https://github.com/waqas-liaqat/BankChurn-AI-Predictor/blob/4c1797a8fb2fe97edea17e7688ed94a93489fcb2/Logo.png/150)
+![Project Logo](https://github.com/waqas-liaqat/BankChurn-AI-Predictor/blob/4c1797a8fb2fe97edea17e7688ed94a93489fcb2/Logo.png)
 
 ## Overview
 This project focuses on predicting customer churn for a bank using machine learning. It includes feature engineering, model building, and deployment of a user-friendly web application to predict customer churn based on user inputs.
